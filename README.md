@@ -25,5 +25,4 @@ Based on the observations, I recommend the following:
 
 4. Over the years, there has been allegations that the award goes only to players from a particular league and teams. I’m of the opinion that, if those allegations have been tested to be true, the law should be adjusted and the awarded be rotated amongst leagues.
 
-7. Finally, a particular team shouldn't have an average of more than 2 players on this list, this is to give room to other players from other teams and leagues a level playing ground to compete
-8. 
+7. Finally, a particular team shouldn't have an average of more than 2 players on this list, this is to give room to other players from other teams and leagues a level playing ground to compete.
